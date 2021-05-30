@@ -64,28 +64,6 @@ a .go-home {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.footer-like {
-  margin-top: auto;
-  background: rgb(31, 38, 130);
-  padding: 6px;
-  text-align: center;
-}
-.footer-like p {
-  margin: 0;
-  padding: 4px;
-  color: #fafafa;
-  font-family: "Raleway", sans-serif;
-  letter-spacing: 1px;
-}
-.footer-like p a {
-  text-decoration: none;
-  color: #5892ff;
-  font-weight: 600;
-}
-
-.footer-like p a:hover {
-  color: #fff;
-}
 
 @media (min-width: 360px) {
   h1 {
